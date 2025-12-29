@@ -1,0 +1,6 @@
+City,Annual_energy_calc_kWh,Annual_energy_table_kWh,Energy_diff,PR_calc_%,PR_table_%,PR_diff
+Berlin,1049.41,1049.41,0,79.98,79.98,-0.0006
+Cologne,1038.09,1038.09,0,79.83,79.83,-0.0033
+Hamburg,989.88,989.88,0,80.07,80.07,0.0038
+Munich,1137.39,1137.39,0,79.43,79.43,0.0033
+Average,1053.69,1053.69,0.0025,79.83,79.83,-0.0025
